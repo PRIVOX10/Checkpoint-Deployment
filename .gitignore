@@ -1,0 +1,8 @@
+# Dependencies (reinstalled with "npm install")
+node_modules/
+
+# Environment variables (database URI, secrets)
+.env
+
+# React client dependencies (the built app in public/ IS committed for Azure)
+client/node_modules/
